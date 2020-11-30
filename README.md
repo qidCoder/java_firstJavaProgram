@@ -15,10 +15,10 @@ My hometown is Burbank, CA
 ● Start coding java right away.
 
 ### Tasks:
-● Create a new source file inside of your javaFun directory.
+● Create a new source file inside of your **javaFun** directory.
 
 ● In the main method, implement the code to print your name, age, and hometown in different lines.
 
 ● Compile your code without errors.
 
-● Run your .class file.
+● Run your **.class** file.
